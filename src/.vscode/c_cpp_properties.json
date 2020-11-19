@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C://Users//Louis Vincent//AppData//Local//Arduino15//packages//esp8266//tools//**",
+                "C://Users//Louis Vincent//AppData//Local//Arduino15//packages//esp8266//hardware//esp8266//2.7.4//**",
+                "C:/Users/Louis Vincent/Documents/Arduino/libraries/ArduinoJson/src",
+                "C://Users//Louis Vincent//AppData//Local//Arduino15//packages//esp8266//hardware//esp8266//2.7.4//**",
+                "C://Users//Louis Vincent//AppData//Local//Arduino15//packages//esp8266//tools//**",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/EEPROM/src",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/HID/src",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SoftwareSerial/src",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI/src",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/Wire/src",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI/src",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/avr",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include",
+                "C:\\Users\\Louis Vincent\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\**",
+                "C:\\Users\\Louis Vincent\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**"
+            ],
+            "forcedInclude": [
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ]
+        }
+    ],
+    "version": 4
+}
