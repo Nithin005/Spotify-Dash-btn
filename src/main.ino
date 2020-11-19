@@ -2,12 +2,12 @@
 #include <WiFiClientSecure.h>
 #include <ArduinoJson.h>
 
-const char *ssid = "Vincent COMP";
-const char *password = "vincentl116";
+const char *ssid = "WIFI-ACCESSPOINT-NAME";
+const char *password = "WIFI-PASSWORD";
 const char *host = "api.spotify.com";
 const int httpsPort = 443;
-const String AUTH_CODE = "ZTBjOGU2MzBiMDE3NGIxMmE2Yzg4NTRjMTMzN2Y5OTg6ZmZjMWYwNTY2NmRjNDYxZjkwM2VmM2YzMGVhYzlmMDk=";
-const String REF_TOKEN = "AQAKPooz3cmcWRXc6mjk73ZmZwXnXP5JYrBQIjjDKdi1E0KcfLRb89DUITI_tTaW0IRmb5cdijHn-KXdzVgeZBVDH_CeqqfQ8QvXtslQJ2GI1csPRprMq4J_ScmREJ3lQ80";
+const String AUTH_CODE = "ENTER-SPOTIFY-AUTHENTICATION-TOKEN";
+const String REF_TOKEN = "ENTER-SPOTIFY-REFRESH-TOKEN";
 
 WiFiClientSecure client;
 
